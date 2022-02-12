@@ -1,0 +1,1 @@
+This directory (gnuradio) is shared between docker and host - good place to save flowgraphs when experimenting in docker, since this folder is probably only persistent docker storage.
